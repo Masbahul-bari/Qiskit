@@ -1,0 +1,3 @@
+!pip install qiskit
+!pip install qiskit.ignis
+!pip install pylatexenc
