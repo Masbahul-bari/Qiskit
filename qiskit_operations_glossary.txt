@@ -1,0 +1,3 @@
+qiskit operations glossary----->> 
+https://quantum-computing.ibm.com/lab/docs/iql/operations_glossary/
+
